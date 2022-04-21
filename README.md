@@ -1,2 +1,2 @@
-# dio-primeiro-desafio--Git-Github
-Bootcamp Carrefour (Desafio 1)
+# Desafio Git/Github
+Repositório criado como o primeiro desafio do Bootcamp Carrefour da DIO.
